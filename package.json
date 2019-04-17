@@ -1,0 +1,25 @@
+{
+  "name": "frontend-nanodegree-mobile-portfolio-v2",
+  "version": "1.0.0",
+  "description": "This project is a part of front end nanodegree programme of Udacity. The objective of this project is to optimize a given website for better performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viral Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-exit": "0.0.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-webserver": "^0.9.1",
+    "ngrok": "^2.2.9",
+    "psi": "^3.0.0",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^3.0.0"
+  }
+}

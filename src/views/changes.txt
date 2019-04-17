@@ -1,0 +1,5 @@
+updated resizePizzas function starting at line 402
+    eliminated the determineDx function after extracting sizeSwitcher function from it.
+    updated changePizzaSizes function at line 441 and 443
+
+updated the 
